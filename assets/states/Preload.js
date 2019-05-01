@@ -11,7 +11,7 @@ Preload.prototype = {
 
 		//level 1
 		//  Needless to say, graphics (C)opyright Namco
-		this.load.baseURL = 'https://geocfu.github.io/pacman/';
+		this.load.baseURL = 'https://georgemantellos.xyz/pacman/';
         this.load.crossOrigin = 'anonymous';
 
         this.load.image('dot', 'assets/dot.png');
